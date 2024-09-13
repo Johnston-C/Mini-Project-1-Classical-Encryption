@@ -10,4 +10,4 @@ AllCaesar encodes a message through all Caesar Ciphers, both encrypting and decr
 
 CITATIONS: Oracle, specifically Strings documentation
 
-https://github.com/YOUR_GITHUB_ACCOUNT/REPO
+https://github.com/Johnston-C/Mini-Project-1-Classical-Encryption
